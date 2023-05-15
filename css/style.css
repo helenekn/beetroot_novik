@@ -5,7 +5,7 @@ body {
    font-size: 18px;
    font-family: "Open Sans", sans-serif;
    margin: 0;
-   color: var(--main-font-color);
+   color: #070707;
    margin: 0 auto;
 }
 
@@ -36,7 +36,7 @@ li {
 a {
    position: relative;
    text-decoration: none;
-   color: var(--add-font-color);
+   color: #828282;
 }
 
 a:hover::before {
@@ -71,7 +71,7 @@ a:hover::before {
 
 .about_me,
 .portfolio {
-   background: var(--background-add);
+   background: #f6f6f6;
    padding: 100px 0;
 }
 
